@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\Factura\\Factura.csproj": {}
+    "C:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\Factura\\Factura.csproj": {}
   },
   "projects": {
-    "c:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\Factura\\Factura.csproj": {
+    "C:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\Factura\\Factura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\Factura\\Factura.csproj",
+        "projectUniqueName": "C:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\Factura\\Factura.csproj",
         "projectName": "Factura",
-        "projectPath": "c:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\Factura\\Factura.csproj",
+        "projectPath": "C:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\Factura\\Factura.csproj",
         "packagesPath": "C:\\Users\\20260\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\Factura\\obj\\",
+        "outputPath": "C:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\Factura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20260\\AppData\\Roaming\\NuGet\\NuGet.Config"
