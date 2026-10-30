@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\04-Secuencial\\04-Secuencial.csproj": {}
+    "C:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\04-Secuencial\\04-Secuencial.csproj": {}
   },
   "projects": {
-    "c:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\04-Secuencial\\04-Secuencial.csproj": {
+    "C:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\04-Secuencial\\04-Secuencial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\04-Secuencial\\04-Secuencial.csproj",
+        "projectUniqueName": "C:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\04-Secuencial\\04-Secuencial.csproj",
         "projectName": "04-Secuencial",
-        "projectPath": "c:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\04-Secuencial\\04-Secuencial.csproj",
+        "projectPath": "C:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\04-Secuencial\\04-Secuencial.csproj",
         "packagesPath": "C:\\Users\\20260\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\04-Secuencial\\obj\\",
+        "outputPath": "C:\\Users\\20260\\Desktop\\Trabajo en Clase — Semana 1\\04-Secuencial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20260\\AppData\\Roaming\\NuGet\\NuGet.Config"
